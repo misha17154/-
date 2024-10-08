@@ -1,0 +1,35 @@
+.BTN-contacts{
+    display: block;
+    margin-top: 10px;
+    margin-left: 20px;
+    width: 310px;
+    font-size: 36px;
+    padding:  16px, 20px, 17px, 20px;
+    background-color: #4878A6;
+    color: #DAE4ED;
+    border-radius: 5px;
+    cursor: pointer;
+    }
+
+.input{
+    background-color: #FFFFFF;
+    margin-top: 50px;
+    border: 1px solid rgb(175, 175, 175);
+    width: 310px;
+    height: 48px;
+    margin-left: 15px;
+    }
+    
+    .line{
+        list-style: none;
+        display: block;
+    }
+
+    .choice{
+        color: #243C53;
+        display: block;
+        margin-left: 15px;
+        margin-top: 20px;
+    }
+
+    

@@ -1,0 +1,193 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.main_header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.logo{
+    width: 184px;
+    height: 60px;
+    margin: 10px;
+}
+
+
+
+#info{
+display: flex;
+gap: 30px;
+list-style: none;
+padding: 20px;
+}
+
+#search{
+    width: 100px;
+    height: 30px;
+    margin: 10px;
+}
+
+#icons{
+    display: flex ;
+}
+
+.log{
+    text-decoration: none;
+    color: #DAE4ED;
+    background-color: #243C53;
+    font-size: 25px;
+    height: 35px;
+    margin-top: 10px;
+}
+
+.log:hover{
+    background-color: #DAE4ED;
+    color: #243C53;
+}
+
+.log:active{
+    background-color: #c8c9ca;
+}
+/* nav Bar */
+ul#priceList{
+    background-color: #000810;
+
+    list-style: none;
+
+    display: flex;
+
+    justify-content: space-between;
+
+    position: relative;
+}
+ul#priceList ul{
+    display: none;
+}
+
+ul#priceList li:first-child:hover ul{
+    display: block;
+    position: absolute;
+    top: 43px;
+}
+
+
+ul#priceList ul {
+    background-color: #DAE4ED;
+    left: 0.5px;
+}
+
+ul#priceList > li > a{
+    color: #DAE4ED;
+    font-size: 20px; 
+}
+
+ul#priceList ul li a{
+    color: black;
+
+    text-decoration: none;
+}
+ul#priceList ul li{
+    padding: 10px;
+    text-align: center;
+}
+
+ul#priceList > li{
+    padding: 10px;
+    text-align: center;
+    
+}
+
+ul#priceList ul li:hover{
+    background-color: #c8c9ca;
+    cursor: pointer;
+    
+}
+
+ul#priceList > li:hover{
+    background-color: #243C53;
+    cursor: pointer;
+}
+
+ul#priceList > li:focus{
+    background-color: #243C53;
+}
+
+
+/* Footer */
+footer{
+    background-color: #e7edf3;
+    max-height: 200px;
+
+    padding: 20px;
+
+    line-height: 25px;
+    display: flex;
+
+    gap: 50px;
+
+    margin-top: 50px;
+}
+
+.general-info{
+    list-style: none;
+    text-decoration: none;
+
+    font-size: 20px;
+    display: grid;
+}
+
+.info-user{
+    list-style: none;
+    text-decoration: none;
+
+    font-size: 20px;
+}
+
+h4{
+    color: grey;
+    font-size: 20px;
+}
+
+#footer-img{
+    width: 310px;
+    height: 90px;
+}
+
+.info-shop{
+    list-style: none;
+
+    font-size: 20px;
+}
+
+.cooperation{
+    list-style: none;
+
+    font-size: 20px;
+}
+
+.main-IMG{
+    width: 970px;
+    height: 524px;
+    border-radius: 8px;
+    position: relative; 
+    left: 400px;
+    margin-top: 25px;
+    
+}
+
+h2{
+    font-size: 40px;
+    margin-top: 40px;
+    padding: 20px;
+}
+
+#sorted{
+    border: none;
+    font-size: 20px;
+    color: #243C53; 
+}
+

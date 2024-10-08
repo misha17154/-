@@ -1,0 +1,163 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#title{
+    font-size: 36px;
+    margin-left: 50px;
+    margin-top: 40px;
+}
+
+#title_2{
+    color: #838688;
+    font-size: 24px;
+    margin-left: 30px;
+}
+
+.paragraph{
+    font-size: 16px;
+    line-height: 20.6px;
+    margin-left: 50px;
+}
+
+#title_3{
+    font-size: 24px;
+    line-height: 20.8px;
+    color: #838688;
+    margin-left: 30px;
+}
+
+#table{
+    width: 975px;
+    height: 332px;
+    margin-left: 50px;
+}
+
+.text{
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 20.8px;
+    margin-left: 50px;
+    margin-top: 15px;
+}
+
+.text-2{
+    font-size: 16px;
+    line-height: 20.8px;
+    margin-top: 15px;
+    margin-left: 50px;
+}
+
+.title-4{
+    font-size: 24px;
+    line-height: 20.8px;
+    margin-top: 15px;
+    margin-left: 50px;
+}
+
+.title-5{
+    font-size: 16px;
+    color: black;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+.text-3{
+    font-size: 16px;
+    line-height: 20.8px;
+    margin-top: 15px;
+    margin-left: 50px;
+}
+
+.list{
+    font-size: 16px;
+    line-height: 20.8px;
+    margin-top: 15px;
+    margin-left: 90px;
+}
+
+.text-4{
+    font-size: 16px;
+    line-height: 20.8px;
+    margin-top: 15px;
+    margin-left: 50px;
+    font-weight: bold;
+}
+
+#title-6{
+    font-size: 24px;
+    color: #838688;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+#title-7{
+    font-size: 24px;
+    color: #838688;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+#title-8{
+    font-size: 24px;
+    color: #838688;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+#title-9{
+    font-size: 36px;
+    line-height: 46.8px;
+    margin-top: 30px;
+    margin-left: 60px;
+}
+#if{
+    background-color: #FFFF00;
+    font-size: 16px;
+    margin-top: 15px;
+    margin-left: 60px;
+}
+
+#title-10{
+    font-size: 28px;
+    margin-top: 20px;
+    margin-left: 50px;
+    line-height: 33.6px;
+}
+
+#title-11{
+    font-size: 28px;
+    margin-top: 10px;
+    margin-left: 50px;
+    line-height: 33.6px;
+}
+
+#title-12{
+    font-size: 28px;
+    margin-left: 50px;
+    line-height: 33.6px;
+    color: #4878A6;
+}
+
+#title-13{
+    font-size: 28px;
+    margin-left: 50px;
+    line-height: 33.6px;
+    margin-top: 10px;
+}
+
+.mail{
+    font-size: 28px;
+    margin-left: 50px;
+    line-height: 33.6px;
+    font-weight: bold;
+}
+
+.E-mail{
+    font-size: 28px;
+    line-height: 33.6px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #4878A6;
+}

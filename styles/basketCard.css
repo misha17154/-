@@ -1,0 +1,79 @@
+
+#card-Shop{
+    display: flex;
+    padding: 20px;
+    border: 1px solid #243C53;
+    margin: 20px; 
+     justify-content:space-between;
+    align-items: center;
+
+}
+
+.IMG-card{
+    width: 200px;
+
+}
+
+p{
+    font-size: 25px; 
+}
+
+.rang{
+
+}
+.reviews{
+    font-size: 24px;
+    color: #0E1821;   
+}
+
+.discount{
+    font-size: 15px;
+    font-weight: 700;
+
+}
+
+.basket-Card{
+    width: 100px;
+}
+
+.BTN{
+    font-size: 20px;
+    border: 1px solid #4878A6;
+    color: #4878A6;
+    padding: 10px;
+    height: 50px;
+}
+
+.BTN:hover{
+    background-color: #4878A6;
+    color: #DAE4ED;
+    cursor: pointer;
+}
+
+.new{
+    background-color: #48A69B;
+    color: #EDF2F6;
+}
+
+.top{
+    background-color: #D73838;
+    color: #EDF2F6;
+}
+
+.card-Shop div p{
+    font-size: 15px;
+
+    text-align: center;
+
+    border-radius: 15px;
+
+    width: 100px;
+
+    padding: 10px;
+
+    bottom: 90px;  
+}
+
+.new_top p{
+    margin: 10px;
+}

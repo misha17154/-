@@ -1,0 +1,36 @@
+.Sale-list{
+    margin-left: 50px;
+    margin-top: 70px;
+}
+
+.name{
+    font-size: 36px;
+    font-weight: 700;
+}
+.description{
+    font-size: 16px;
+    width: 750px;
+    line-height: 20.8px;
+    margin-top: 30px;
+}
+
+#cake{
+    margin-left: 800px;
+    margin-top: -150px;
+    width: 530px;
+    height: 354px;
+}
+
+#condition-sale{
+    font-size: 24px;
+    margin-left: 50px;
+    margin-top: -110px;
+}
+
+#condition li{
+    font-size: 16px;
+    margin-left: 50px;
+    margin-top: 50px;
+    width: 750px;
+    
+}

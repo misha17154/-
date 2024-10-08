@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#Installment{
+    margin-left: 50px;
+    margin-top: 70px;
+}
+
+#halva{
+    width: 975px;
+    height: 531px;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+#work-installment{
+    margin-left: 50px;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.conditions{
+    margin-left: 30px;
+    font-size: 16px;
+    word-break:break-all;
+}
+
+.conditions-2{
+    font-size: 16px;
+    background-color: #FFFF00;
+    margin-left: 30px;
+}
+
+#table{
+    width: 975px;
+    height: 269px;
+    margin-left: 50px;
+    margin-top: 300px;
+}
+
+.conditions-3{
+    margin-left: 50px;
+    margin-top: 30px;
+    font-size: 14px;
+    width: 975px;
+}
+
+#form-sending{
+    background-color: #EDF2F6;
+    width: 370px;
+    height: 341px;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.conditions-4{
+    font-size: 24px;
+}
+
+#input-name{
+    width: 310px;
+    height: 48px;
+    margin-left: 15px;
+}
+
+.name{
+    font-size: 16px;
+    margin-left: 15px;
+}
+
+.phone{
+    font-size: 16px;
+    margin-left: 15px;
+}
+
+#input-phone{
+    width: 310px;
+    height: 48px;
+    margin-left: 15px;
+}
+
+.BTN-contacts{
+display: block;
+margin-top: 30px;
+margin-left: 15px;
+width: 310px;
+height: 48px;
+font-size: 16px;
+padding:  16px, 20px, 17px, 20px;
+background-color: #2A5275;
+color: #DAE4ED;
+border-radius: 5px;
+cursor: pointer;
+}
+
+.mobile_bank{
+    width: 433px;
+    height: 172px;
+    margin-left: 50px;
+    margin-top: 30px;
+    display: flex;
+}
+
+.title_mobileBank{
+    width: 433px;
+    height: 58px;
+    font-size: 24px;
+    margin-left: 437px;
+    margin-top: -300px;
+}
+
+.p_mobileBank{
+    width: 410px;
+    height: 94px;
+    margin-left: 455px;
+    font-size: 16px;
+    margin-bottom: -60px;
+}
+
+.conditions_5{
+    width: 410px;
+    height: 94px;
+    margin-left: 455px;
+    font-size: 16px;
+    margin-bottom: -70px;
+}

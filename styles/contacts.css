@@ -1,0 +1,150 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+.contacts_block{
+    display: flex;
+    
+}
+.contacts{
+    background-color: #EDF2F6;
+    width: 420px;
+    height: 512px;
+    margin-top: 30px;
+    margin-left: 30px;
+    border-radius: 8px ;
+    
+}
+
+#contacts{
+    margin-top: 15px;
+    margin-left: 50px;
+    font-size: 36px;
+    
+}
+
+.address{
+    font-size: 16px;
+    margin-top: 15px;
+    margin-left: 20px;
+    
+
+}
+
+.phone{
+    font-size: 24px;
+    margin-top: 15px;
+    margin-left: 20px;
+    color: #2A5275;
+    text-decoration: none;
+    
+}
+
+.first_address:hover{
+    background-color: #DAE4ED;
+    width: 420px;
+    height: 80px;
+    
+}
+
+.line_IMG{
+    margin-top: 30px;
+    margin-left: 25px;
+    
+}
+
+.mail{
+    margin-top: 15px;
+    margin-left: 25px;
+    
+}
+
+.E-mail_contacts{
+    font-size: 24px;
+    margin-top: 15px;
+    margin-left: 20px;
+    color: #2A5275;
+    text-decoration: none;
+}
+
+.connection{
+   font-size: 36px;
+   margin-top: 20px;
+   margin-left: 20px; 
+}
+
+.name_contacts{
+    font-size: 16px;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+#entryfield_name{
+    width: 310px;
+    height: 48px;
+    margin-left: 20px;
+    margin-top: 5px;
+    border: 1px solid gray;
+    border-radius: 8px;
+    padding-left: 15px;
+}
+
+.phone_contacts{
+    font-size: 16px;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+#entryfield_phone{
+    width: 310px;
+    height: 48px;
+    margin-left: 20px;
+    margin-top: 5px;
+    border: 1px solid gray;
+    border-radius: 8px;
+    padding-left: 15px;
+}
+
+.BTN-contacts{
+display: block;
+margin-top: 10px;
+margin-left: 20px;
+width: 310px;
+font-size: 36px;
+padding:  16px, 20px, 17px, 20px;
+background-color: #4878A6;
+color: #DAE4ED;
+border-radius: 5px;
+cursor: pointer;
+}
+
+.img-contacts{
+    vertical-align: 500px;
+    margin-left: 30px;
+    margin-top: 85px;
+}
+
+.massager{
+    font-size: 16px;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+#entryfield_massager{
+    width: 530px;
+    height: 140px;
+    margin-left: 20px;
+    margin-top: 5px;
+    border: 1px solid gray;
+    border-radius: 8px;
+    padding-left: 15px;
+}
+
+.check_mark{
+    width: 24px;
+    height: 24px;
+    size: 16px;
+    margin-left: 20px;
+    margin-top: 10px;
+}

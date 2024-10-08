@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.About_us{
+    font-size: 36px;
+    margin-left: 40px;
+    padding: 20px;
+    
+}
+
+.discription{
+    font-size: 16px;
+    margin-left: 40px;
+    padding: 20px;
+}
+
+.table_of_contents{
+    font-size: 24px;
+    margin-left: 60px;
+}
+
+.table_of_discription{
+    font-size: 24px;
+    margin-left: 60px;
+    padding: 20px;
+}
+
+#description_of_goods{
+    background-color: #EDF2F6;
+    height: 265px;
+    
+}
+
+.About_us_goods{
+    margin-left: 20px;
+    margin-top: 50px;
+}
+
+.links_goods{
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 40px;
+    margin-bottom: 50px;
+}
+
+.mail{
+    color: #4878A6;
+    font-size: 28px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.adrees{
+    font-size: 16px;
+    display: block;
+    margin-left: 60px;
+}
+

@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.register_form{
+    background-color: #EDF2F6;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.H1_register p{
+    margin-top: 40px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.input{
+    background-color: #FFFFFF;
+    margin-top: 50px;
+    border: 1px solid rgb(175, 175, 175);
+    width: 310px;
+    height: 48px;
+}
+
+.BTN-contacts{
+text-align: center;
+align-items: center;
+font-size: 20px;
+background-color: #2A5275;
+color: #DAE4ED;
+border-radius: 5px;
+cursor: pointer;
+margin-top: 20px;
+height: 40px;
+}
+
+#IRegistration{
+    display: block;
+    font-size: 16px;
+    margin-top: 20px;
+}
